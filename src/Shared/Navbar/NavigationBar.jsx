@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { Navbar, Nav, Container, Button, NavDropdown } from 'react-bootstrap';
 const NavigationBar = () => {
     const [isLoggedIn, setIsLoggedIn] = useState(false);
+
+    //TODO: i have to use here user from auth provider
     return (
 
         <Navbar bg="light" expand="lg" className="mb-4 py-4 mr-3">
