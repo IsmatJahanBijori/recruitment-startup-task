@@ -3,7 +3,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    max-width: 80rem;
+    max-width: 70rem;
+    /* height: 30rem; */
     gap: 1rem;
     padding: 1rem;
 }
@@ -36,3 +37,4 @@
     grid-column-start: 1;
     grid-row-start: 1;
 }
+

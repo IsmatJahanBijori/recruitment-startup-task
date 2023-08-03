@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './Banner.css';
-import { Container, Image } from 'react-bootstrap';
+import { Button, Container, Image } from 'react-bootstrap';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import './Banner.css'
 // Import Swiper styles
@@ -36,6 +36,7 @@ const Banner = () => {
                                     <div className='hero-overlay banner text-center text-white'>
                                         <h1 className='fw-bold fs-1 mt-5'>{bannerData.title}</h1>
                                         <p className='fs-3'>{bannerData.subtitle}</p>
+                                        <Button className='primary p-2 text-white fw-bold fs-3'>Get Started With us</Button>
                                     </div>
                                 </div>
                             </div>

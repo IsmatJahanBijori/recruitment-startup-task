@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 ### npm install --save aos@next
 ### npm i react-parallax
+### npm install react-fast-marquee --save
+### npm install sweetalert2
+### npm install @emailjs/browser --save
+### npm install lottie-react

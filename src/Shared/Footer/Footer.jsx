@@ -1,12 +1,12 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-
+import 'aos/dist/aos.css';
 const Footer = () => {
     return (
 
         <footer className="bg-light text-black fs-5 text-light py-4">
             <Container>
-                <Row>
+                <Row data-aos="fade-left">
                     <Col md={3}>
                         <h4>Contact Us</h4>
                         <p>Email: info@example.com</p>
