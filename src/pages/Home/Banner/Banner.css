@@ -1,0 +1,38 @@
+.hero-content {
+    z-index: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 80rem;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.hero-overlay {
+    grid-column-start: 1;
+    grid-row-start: 1;
+    height: 100%;
+    width: 100%;
+    background-color: hsl(var(--n) / var(--tw-bg-opacity));
+    --tw-bg-opacity: 0.5;
+}
+
+.banner {
+    border-radius: 1rem;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 500px;
+    width: 1600px;
+    height: 1000px;
+    height: 700px;
+}
+.hero {
+    display: grid;
+    width: 100%;
+    place-items: center;
+    background-size: cover;
+    background-position: center;
+}
+.hero > * {
+    grid-column-start: 1;
+    grid-row-start: 1;
+}

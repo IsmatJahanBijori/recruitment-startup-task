@@ -6,7 +6,7 @@ const NavigationBar = () => {
     //TODO: i have to use here user from auth provider
     return (
 
-        <Navbar bg="light" expand="lg" className="mb-4 py-4 mr-3">
+        <Navbar bg="light" expand="lg" className="py-4 mr-3">
             <Container>
                 {/* Left side of Navbar */}
                 <Navbar.Brand href="/">

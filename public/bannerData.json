@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Unlock Your Potential",
+        "subtitle": "Discover Your Dream Career with Our Recruitment Services",
+        "image": "https://i.ibb.co/tCqPK4X/img1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Building Careers Together",
+        "subtitle": "Join Our Talent Network and Find Your Perfect Match",
+        "image": "https://i.ibb.co/LvKqv87/istockphoto-1350722246-170667a.webp"
+    },
+    {
+        "id": 3,
+        "title": "Connecting Talent and Opportunities",
+        "subtitle": "Explore Job Openings in Leading Companies",
+        "image": "https://i.ibb.co/QFTRrP3/istockphoto-1386914608-170667a.webp"
+    },
+    {
+        "id": 4,
+        "title": "Empowering Your Journey",
+        "subtitle": "Personalized Recruitment Solutions for Success",
+        "image": "https://i.ibb.co/bvbrG7P/istockphoto-1435226158-170667a.webp"
+    },
+    {
+        "id": 5,
+        "title": "Find Your Path to Success",
+        "subtitle": "Let Us Guide You Towards Your Dream Job",
+        "image": "https://i.ibb.co/9HBjfjV/istockphoto-1284066336-612x612.jpg"
+    }
+]
