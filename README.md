@@ -13,3 +13,13 @@ Currently, two official plugins are available:
 ### npm install sweetalert2
 ### npm install @emailjs/browser --save
 ### npm install lottie-react
+
+### Client Side Live Link: https://nextyouhire.web.app
+
+### In this recruitment startup website, there is a navbar with 5 routes (Home, Software Engineer, Product Manager, Data Scientist, Login and Sign up)
+### A banner section with five images using swiper demos, parallax packages
+### Four static card
+
+### Six cards with recruitment fields, salary, location using aos package
+
+### A footer with some static and navigating links, using aos package

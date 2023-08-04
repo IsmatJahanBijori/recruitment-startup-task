@@ -16,7 +16,7 @@ const JobOption = () => {
                     jobs.map(job =>
                         <Col xs={6} md={5} className='me-5'>
                             <Card data-aos="fade-right" className='me-3 gap-3' style={{width: "40rem", height:"35rem"}}>
-                                <Card.Img variant="top" src={job.logo} className='w-25 h-25 text-center p-3' />
+                                <Card.Img data-aos="fade-down" variant="top" src={job.logo} className='w-25 h-25 text-center p-3' />
                                 <Card.Body>
                                     <Card.Title><span className='fw-bold'>Title: </span>{job.job_title}</Card.Title>
                                     <Card.Text><span className='fw-bold'>Company Name:</span> {job.company_name}</Card.Text>
