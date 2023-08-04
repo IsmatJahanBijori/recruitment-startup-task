@@ -6,13 +6,12 @@ import Banner from '../Banner/Banner';
 import Company from '../Company/Company';
 import JobFeatured from '../JobFeatured/JobFeatured';
 import JobOption from '../JobOption/JobOption';
-// import Contact from '../Contact/Contact';
+
 const Home = () => {
     useEffect(() => {
-        AOS.init({ duration: 1000 }); // Initialize AOS with a duration of 1000ms (1 second)
+        AOS.init({ duration: 1000 }); 
     }, []);
-    //data-aos="zoom-in"
-    //data-aos-delay="100"
+
     
     return (
         <div>
