@@ -24,7 +24,7 @@ const JobOption = () => {
                                     <Card.Text><span className='fw-bold'>Description:</span> {job.job_description}</Card.Text>
                                     <Card.Text><span className='fw-bold'>Responsibility:</span> {job.job_responsibility}</Card.Text>
                                     <Card.Text><span className='fw-bold'>Salary:</span>{job.salary}</Card.Text>
-                                    <Button variant="primary">Go Details</Button>
+                                    <Button variant="primary">View Details</Button>
 
                                 </Card.Body>
                             </Card>
